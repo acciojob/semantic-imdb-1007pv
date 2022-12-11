@@ -28,6 +28,7 @@ img {
 }
 
 nav a {
+    overflow: hidden;
     float: right;
     text-decoration: none;
     display: block;
